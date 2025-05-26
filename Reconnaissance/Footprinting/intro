@@ -1,1 +1,11 @@
-Footprinting is a method or techniques of information gadhering
+tools for Footprinting
+    Maltego – Visual link analysis tool for mapping relationships and gathering intel.
+    Recon-ng – Web reconnaissance framework (like Metasploit for info gathering).
+    theHarvester – Gathers emails, domains, usernames, IPs from public sources.
+    Shodan – Search engine for internet-connected devices (reveals exposed systems).
+    Google Dorks – Advanced search techniques to find sensitive data on Google.
+    WHOIS Lookup – Gets domain registration details (owners, emails, etc.).
+    Nslookup / Dig – Retrieves DNS records (MX, A, TXT, etc.)
+    Wayback Machine – View historical versions of websites to find exposed info.
+    Censys – Security search engine like Shodan, useful for host metadata.
+    Social-Engineer Toolkit (SET) – Can aid in social engineering by analyzing open-source data.
