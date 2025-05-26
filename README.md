@@ -1,1 +1,15 @@
 Reconnaissance
+  Reconnaisscance in information Security is a process of information gathering about target System or Network, often done by Ethical hacker 
+  there are two types of Recon based on interaction 
+      1. Active recon 
+      2. Passive recon
+
+ Active Recon : In which involues direct interaction with traget
+ Passive Recon : which involues no interaction with target, Used public available information of target  
+
+
+   Reconaissance techniques 
+       1.Footprinting https
+       2.fingerprinting 
+       3.Scanning
+       
