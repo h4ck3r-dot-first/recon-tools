@@ -8,8 +8,27 @@ Reconnaissance
  Passive Recon : which involues no interaction with target, Used public available information of target  
 
 
-   Reconaissance techniques 
-       1.Footprinting [ https://github.com/h4ck3r-dot-first/recon-tools/tree/main/Reconnaissance/Fingerprinting ]
+    Phase of Reconaissance 
+       1.Footprinting 
        2.fingerprinting 
        3.Scanning
-       
+ ------------------------------------------------------------------------------------------------------------------------------------      
+Footprinting?
+      footprinting is a first step and process of information gathering in which involoves making a blue print of target way  to infilterate
+Types of Footprinting . It look more Passive way 
+    Passive Footprinting
+        Collects information without directly interacting with the target.
+        Examples: WHOIS lookups, DNS queries, searching public websites, social media, job postings, etc.
+    Active Footprinting
+        Involves direct interaction with the target system.
+        Examples: Port scanning, traceroute, ping sweeps, and banner grabbing.
+
+example 
+        thief is 
+tools for footprinting recon [https://github.com/h4ck3r-dot-first/recon-tools/tree/main/Reconnaissance/Fingerprinting]
+-------------------------------------------------------------------------------------------------------------------------------------
+Fingerprinting ?
+      fingerprinting is second step and process of information gathering in which involues what kind of software , technology , security used
+types of fingerprinting . It look Active way 
+    passive tools :
+    Active tools : 
