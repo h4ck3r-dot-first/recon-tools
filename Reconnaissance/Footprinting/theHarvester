@@ -1,0 +1,43 @@
+1.Intro to theHarvester?
+2.What tool can do?
+3.what are the commands?
+4.How to use theHarvester tool? 
+    Example1: Basic commands
+    Example2:
+    Example3:
+    Example4:
+5.Conculusion
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1.Intro to theHarvester
+  It is automated tool for information gathering used by ethical hacker.
+  It gathers public information such as the names of employees, email addresses, subdomains, banners, and other public information
+
+What can the tool do
+
+    Gather emails
+    Subdomains searchs
+    Hosts seraches
+    employee names from twitter only
+    Checks for open ports
+    Banners from different public sources like search engines,
+    PGP key servers and SHODAN computer database.
+
+theHarvester Commands
+
+    -d: Target domain
+    -b: data source: Gatherers information from all possible sources (browers)
+    -v: verify hostname via DNS resolution and search for virtual hosts
+    -f: save the results in both XML and HTML format
+    -n: perform a DNS reverse on all possible ranges discovered
+    -c: perform a DNS brute force for the target domain name
+    -l: limits the number of results
+    -h: using SHODAN database
+
+
+Using the Harvester
+  To start theHarvester
+      kali@kali-$   theHarvester  --help
+  
