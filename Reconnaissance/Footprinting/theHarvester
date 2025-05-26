@@ -18,10 +18,10 @@
 2.What can the tool do
 
     Gather emails
-    Subdomains searchs
+    Subdomains searchs*
     Hosts seraches
     Employee names from twitter only
-    Checks for open ports
+    Checks for open ports*
     Banners from different public sources like search engines,
     PGP key servers and SHODAN computer database.
 -------------------------------
@@ -37,6 +37,17 @@
     -h: using SHODAN database
 
 
-Using the Harvester
- 
+4.how use the Harvester
+    we are going to do each commands of it
+        1.Exmaple 
+            most basic command
+            
+            
+       
+                
   
+5.Conculusion 
+According to me , it is good for subdomain finding and scan port 
+it is not much usefull to gethering information. only basic info provide 
+
+alternate :- sublist3r https
