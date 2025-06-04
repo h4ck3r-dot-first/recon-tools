@@ -4,7 +4,8 @@ Reconnaissance
       1. Active recon 
       2. Passive recon
 
- Active Recon : In which involues direct interaction with traget
+ Active Recon : In which involues direct interaction with traget.
+        Examples: Port scanning, traceroute, ping sweeps, and banner grabbing.
  Passive Recon : which involues no interaction with target, Used public available information of target  
 
 
@@ -31,8 +32,7 @@ Examples:
               Censys – Security search engine like Shodan, useful for host metadata.
               Social-Engineer Toolkit (SET) – Can aid in social engineering by analyzing open-source data.
     Active Footprinting
-        Involves direct interaction with the target system.
-        Examples: Port scanning, traceroute, ping sweeps, and banner grabbing.
+    Passive Footprinting  
 
 example 
         thief is 
