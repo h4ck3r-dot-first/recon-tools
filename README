@@ -18,7 +18,18 @@ Footprinting?
 Types of Footprinting . It look more Passive way 
     Passive Footprinting
         Collects information without directly interacting with the target.
-        Examples: WHOIS lookups, DNS queries, searching public websites, social media, job postings, etc.
+Examples:
+                            
+              Maltego – Visual link analysis tool for mapping relationships and gathering intel.
+              Recon-ng – Web reconnaissance framework (like Metasploit for info gathering).
+              theHarvester – Gathers emails, domains, usernames, IPs from public sources.
+              Shodan – Search engine for internet-connected devices (reveals exposed systems).
+              Google Dorks – Advanced search techniques to find sensitive data on Google.
+              WHOIS Lookup – Gets domain registration details (owners, emails, etc.).
+              Nslookup / Dig – Retrieves DNS records (MX, A, TXT, etc.)
+              Wayback Machine – View historical versions of websites to find exposed info.
+              Censys – Security search engine like Shodan, useful for host metadata.
+              Social-Engineer Toolkit (SET) – Can aid in social engineering by analyzing open-source data.
     Active Footprinting
         Involves direct interaction with the target system.
         Examples: Port scanning, traceroute, ping sweeps, and banner grabbing.
