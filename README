@@ -35,17 +35,17 @@ tools for footprinting recon [https://github.com/h4ck3r-dot-first/recon-tools/tr
 Fingerprinting ?
       Fingerprinting is second step and process of information gathering in which involues what kind of software , technology , security used
 types of fingerprinting . It look Active way 
-Example :
-        Nmap – Network scanner for port scanning, OS detection, and service versioning.
-        XProbe2 – OS detection tool using fuzzy logic (alternative to Nmap).
-        p0f – Passive OS fingerprinting by sniffing traffic (no packets sent).
-        Netcat – Reads/writes data across networks; can be used for banner grabbing.
-        Banner Grabbing with Telnet/Netcat – Manually connects to ports to read service info.
-        Wireshark – Network protocol analyzer; can be used for passive fingerprinting.
-        AMAP – Application mapper to identify application protocols on open ports.
-        WhatWeb – Identifies web technologies (CMS, servers, etc.).
-        Wappalyzer – Browser plugin to identify web technologies passively.
-        TCP/IP Stack Fingerprinting Tools – Tools like RFP’s techniques or built into IDS/IPS.
+ Example :
+              Nmap – Network scanner for port scanning, OS detection, and service versioning.
+              XProbe2 – OS detection tool using fuzzy logic (alternative to Nmap).
+              p0f – Passive OS fingerprinting by sniffing traffic (no packets sent).
+              Netcat – Reads/writes data across networks; can be used for banner grabbing.
+              Banner Grabbing with Telnet/Netcat – Manually connects to ports to read service info.
+              Wireshark – Network protocol analyzer; can be used for passive fingerprinting.
+              AMAP – Application mapper to identify application protocols on open ports.
+              WhatWeb – Identifies web technologies (CMS, servers, etc.).
+              Wappalyzer – Browser plugin to identify web technologies passively.
+              TCP/IP Stack Fingerprinting Tools – Tools like RFP’s techniques or built into IDS/IPS.
 --------------------------------------------------------------------------------------------------------------------------------------
 Scanning ?
         Scanning is third step and process of information gathering this involues finding which actively probe live system, open-ports, services.
