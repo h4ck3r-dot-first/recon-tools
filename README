@@ -51,7 +51,12 @@ In detail of tools : [https://github.com/h4ck3r-dot-first/recon-tools/tree/main/
 
 --------------------------------------------------------------------------------------------------------------------------------------
 Scanning ?
-        Scanning is third step and process of information gathering this involues finding which actively probe live system, open-ports, services.
+        Scanning is third step and process of information gathering this involues finding which actively probe live system, open-ports, services versions .
+        helps map the network and identify attack vectors .IT is look both of types.
+Example :     
+            if you learn above tools than you can able to think which is used in Scanning 
 
-
-   
+-------------------------------------------------------------------------------------------------------------------------------------------
+Enumration ?
+        Enumration in this part where combainating of information that we gathering filtering it and making it more accurety detailed summary about target 
+        it involues also per exploitation part .
