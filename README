@@ -29,8 +29,8 @@ Types of Footprinting : Active Footprinting, Passive Footprinting
               Wayback Machine – View historical versions of websites to find exposed info.
               Censys – Security search engine like Shodan, useful for host metadata.
               Social-Engineer Toolkit (SET) – Can aid in social engineering by analyzing open-source data.
-        
-tools for footprinting recon [https://github.com/h4ck3r-dot-first/recon-tools/tree/main/Reconnaissance/Fingerprinting]
+      
+tools for footprinting recon
 -------------------------------------------------------------------------------------------------------------------------------------
 Fingerprinting ?
       Fingerprinting is second step and process of information gathering in which involues what kind of software , technology , security used
@@ -46,6 +46,7 @@ types of fingerprinting . It look Active way
               WhatWeb – Identifies web technologies (CMS, servers, etc.).
               Wappalyzer – Browser plugin to identify web technologies passively.
               TCP/IP Stack Fingerprinting Tools – Tools like RFP’s techniques or built into IDS/IPS.
+in detail of tools : [https://github.com/h4ck3r-dot-first/recon-tools/tree/main/Reconnaissance/Fingerprinting] 
 --------------------------------------------------------------------------------------------------------------------------------------
 Scanning ?
         Scanning is third step and process of information gathering this involues finding which actively probe live system, open-ports, services.
