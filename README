@@ -62,12 +62,18 @@ Enumration ?
         it involues also per exploitation part .
 Some comman techniques used in 
 
-              NetBIOS Enumeration : Reveals shared resources, users, and groups on Windows systems.     Tool example: nbtstat, enum4linux.
-              SNMP Enumeration : Uses SNMP to pull system details from networked devices.               Tool example: snmpwalk.
-              LDAP Enumeration : Gathers info from directory services like Active Directory.     Tool example: ldapsearch.
-              NFS Enumeration : Finds shared files/folders over Network File System.             Tool example: showmount.
-              SMTP Enumeration : Identifies valid email addresses/users on a mail server.        Tool example: VRFY, EXPN commands in Telnet
-              DNS Enumeration :  Gets domain info, subdomains, DNS records.                    Tool example: nslookup, dig, dnsenum.
+              NetBIOS Enumeration : Reveals shared resources, users, and groups on Windows systems.
+                      Tool example: nbtstat, enum4linux.
+              SNMP Enumeration : Uses SNMP to pull system details from networked devices.
+                      Tool example: snmpwalk.
+              LDAP Enumeration : Gathers info from directory services like Active Directory.
+                      Tool example: ldapsearch.
+              NFS Enumeration : Finds shared files/folders over Network File System.
+                      Tool example: showmount.
+              SMTP Enumeration : Identifies valid email addresses/users on a mail server.
+                      Tool example: VRFY, EXPN commands in Telnet
+              DNS Enumeration :  Gets domain info, subdomains, DNS records.
+                      Tool example: nslookup, dig, dnsenum.
               Service Enumeration : Discovers what services and versions are running on open ports.    Tool example: nmap -sV
 
 
